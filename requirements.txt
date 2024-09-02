@@ -1,3 +1,5 @@
 opencv-python-headless
 numpy
 tk
+pytest
+pytest-mock
